@@ -18,5 +18,5 @@ while True:
     else:
         print("Invalid, try again.")
         
-print(players)
-        
+max_score = 50
+player_scores = [0 for _ in range(players)]
